@@ -1,0 +1,34 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Patley Pets</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Patley Pets</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About Pets</a></li>
+      <li><a href="#">Types of Pets</a></li>
+      <li><a href="#">Pet Care</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h2>About Patley Pets</h2>
+    <p>At Patley Pets, we believe in providing valuable information and take care of your pets when you are not there and help you become a responsible and knowledgeable pet owner.</p>
+    <p>Our mission is to educate pet owners on various topics such as pet health, nutrition, training, and behavior. We aim to empower you with the knowledge to provide the best care for your furry friends.</p>
+    <p>Whether you are a new pet owner or have years of experience, our articles and resources will help you understand the needs of different pets and guide you in creating a loving and nurturing environment for them.</p>
+    <p>we take take of your pets ,we believe that pets have feelings and need to be loved.
+  </main>
+
+  <footer>
+    thanks for supporting our business.
+  </footer>
+</body>
+</html>
