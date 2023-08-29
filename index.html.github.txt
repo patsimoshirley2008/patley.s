@@ -24,7 +24,8 @@
     <p>At Patley Pets, we believe in providing valuable information and take care of your pets when you are not there and help you become a responsible and knowledgeable pet owner.</p>
     <p>Our mission is to educate pet owners on various topics such as pet health, nutrition, training, and behavior. We aim to empower you with the knowledge to provide the best care for your furry friends.</p>
     <p>Whether you are a new pet owner or have years of experience, our articles and resources will help you understand the needs of different pets and guide you in creating a loving and nurturing environment for them.</p>
-    <p>we take take of your pets ,we believe that pets have feelings and need to be loved.
+    <p>we take take of your pets ,we believe that pets have feelings and need to be loved.</p>
+  <img src = "img_pets.jpegs"  alt=" there are different pets">
   </main>
 
   <footer>
